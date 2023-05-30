@@ -1,0 +1,53 @@
+/* Logo */
+img[alt="Navbar Logo"] {
+    width: 5rem;
+    border-radius: 5rem;
+    border: 2px solid black;
+}
+
+/* Navigation bar styling */
+
+#Links {
+    font-size: large;
+    font-weight: 600;
+    padding: 2rem;
+}
+
+#Links:hover {
+    color: black;
+    background-color: black;
+    color: rgb(159, 0, 0);
+}
+
+#Navigation {
+    background-color: rgb(159, 0, 0);
+    margin-top: -0.5rem;
+}
+
+/* Body */
+
+body {
+    text-align: center;
+}
+
+/* Products */
+
+#Xbox_512gb_Series_S {
+    text-align: center;
+    width: 25%;
+    border: 1px solid black;
+}
+
+/* Prices */
+
+#Prices1 {
+    border: 2px solid grey;
+    border-radius: 0.5rem;
+    width: 25%;
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+}
