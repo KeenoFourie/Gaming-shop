@@ -32,20 +32,6 @@ body {
 
 /* Products */
 
-#Xbox_512gb_Series_S {
-    text-align: center;
-    width: 25%;
-    border: 1px solid black;
-}
-
-/* Prices */
-
-#Prices1 {
-    border: 2px solid grey;
-    border-radius: 0.5rem;
-    width: 25%;
-}
-
 /* Footer */
 
 footer {
